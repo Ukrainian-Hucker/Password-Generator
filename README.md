@@ -12,6 +12,11 @@ This project uses such libraries as:
 pip install wxpython
  ```
 
+and Pyperclip
+```bash
+pip install pyperclip
+```
+
 This password generator is a simple GUI based on the wxPython library. Key features include:
 
 * Password length selection: The user can specify the desired password length using the "Password length" and "Characters" fields.
